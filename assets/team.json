@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mathias Aguilar",
+    "slug": "mathias",
+    "group": "Hardware y software",
+    "education": "Estudiante de Mecatrónica",
+    "role": "CEO. Hardware y software",
+    "photo": "assets/mathias.jpeg",
+    "badge": "CEO"
+  },
+  {
+    "name": "Héctor Veláquez",
+    "slug": "hector",
+    "group": "Desarrollo de software",
+    "education": "Estudiante de Mecatrónica",
+    "role": "Desarrollo de software",
+    "photo": "assets/hector.jpeg",
+    "badge": ""
+  },
+  {
+    "name": "Victoria Paredes",
+    "slug": "carol",
+    "group": "Desarrollo de software",
+    "education": "Estudiante de Mecatrónica",
+    "role": "Desarrollo de software",
+    "photo": "assets/carol.jpeg",
+    "badge": ""
+  },
+  {
+    "name": "Francisco González",
+    "slug": "francisco",
+    "group": "Desarrollo de hardware",
+    "education": "Estudiante de Mecatrónica",
+    "role": "Desarrollo de hardware",
+    "photo": "assets/francisco.jpeg",
+    "badge": ""
+  },
+  {
+    "name": "Gabriela Orrego",
+    "slug": "gabriela",
+    "group": "Desarrollo de hardware",
+    "education": "Estudiante de Mecatrónica",
+    "role": "Desarrollo de hardware",
+    "photo": "assets/gabriela.jpeg",
+    "badge": ""
+  },
+  {
+    "name": "Alexis Figueredo",
+    "slug": "alexis",
+    "group": "Gestión de procesos y análisis de datos",
+    "education": "Ingeniero industrial",
+    "role": "Gestión de procesos y análisis de datos",
+    "photo": "assets/alexis.jpeg",
+    "badge": ""
+  }
+]
